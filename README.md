@@ -1,2 +1,2 @@
-# ConceptsOfOOPwithCpp
-COncepts of OOP with C++ - Udemy
+# Intro to JavaScript
+Intro to JavaScript - Udacity
